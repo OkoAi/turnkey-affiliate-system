@@ -1,5 +1,5 @@
 window.CONFIG = {
-  airtableApiKey: 'YOUR_AIRTABLE_API_KEY',
-  baseId:        'YOUR_AIRTABLE_BASE_ID',
-  defaultNiche:  'AI Tools'
+  airtableApiKey: 'patL18e34i8WzUdNe',
+  baseId:         'appDEF456ghi789JKL',
+  defaultNiche:   'AI Tools'
 };
