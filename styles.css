@@ -1,0 +1,3 @@
+body { font-family: sans-serif; padding: 1rem; }
+#app > div { border: 1px solid #ddd; padding: .75rem; margin: .5rem 0; }
+a { color: #0366d6; text-decoration: none; }
